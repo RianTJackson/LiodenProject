@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+
+h4{
+    text-align: center;
+    font-size: 25px;
+}
+
+p{
+    text-align: center;;
+}
+
+.contaner{
+    margin: auto;
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+
+    background-color: grey;
+    border-radius: 25px;
+}
+
+.cent{
+    text-align: center;
+}

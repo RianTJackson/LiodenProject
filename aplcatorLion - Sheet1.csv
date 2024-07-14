@@ -1,0 +1,117 @@
+apc_id,bse_id,apc_name,apc_event,apc_time,apc_location,apc_cost,apc_notes
+1,190,The Hyena,Great Hunger,January,Carrion Shop T4,3000 SB,NULL
+2,124,The Aardwolf,Great Hunger,January,Carrion Shop T4,3000 SB,NULL
+3,345,Ardor Elegance,Aphrodisia,February,Flirt Shop T3,150 HS,NULL
+4,332,Kiss from a Rose,Aphrodisia,February,Flirt Shop T3,100 HS,NULL
+5,139,Cherry Lips,Aphrodisia,February,Flirt Shop T3,150 HS,NULL
+6,29,Taste of Cotton Candy,Aphrodisia,February,Flirt Shop T3,150 HS,NULL
+7,307,Fluffness of Flamingo,Aphrodisia,February,Flirt Shop T3,150 HS,NULL
+8,32,Dust: Hematite,Aphrodisia,February,Crafted: Monkey Business,50 Hematite,NULL
+9,46,Dust: Kunzite,Aphrodisia,February,Crafted: Monkey Business,50 Kunzite,NULL
+10,321,Date with Manakbir,Aphrodisia,February,Flirt Shop T3,100 HS,NULL
+11,322,Taste of Merlot,Aphrodisia,February,Flirt Shop T3,150 HS,NULL
+12,219,It's All Peachy!,Aphrodisia,February,Flirt Shop T3,150 HS,NULL
+13,271,Dust: Rhodonite,Aphrodisia,February,Crafted: Monkey Business,50 Rhodonite,NULL
+14,348,Rose Pink Bouquet,Aphrodisia,February,Flirt Shop T3,200 HS,NULL
+15,272,Dust: Rough Ruby,Aphrodisia,February,Crafted: Monkey Business,50 Rough Ruby,NULL
+16,164,Atlas Titan,Anti-Poaching,March,Black Market T3,120 RB,NULL
+17,227,Chatoyant Enamel,Anti-Poaching,March,Black Market T3,120 RB,NULL
+18,129,The Guardian,Anti-Poaching,March,Black Market T3,120 RB,NULL
+19,216,Murex Base: Haliotis,Anti-Poaching,March,Crafted: Monkey Business,"50 Murex Shells, 50 Rainbow Stones",NULL
+20,203,Haunch of Hirola,Anti-Poaching,March,Black Market T3,120 RB,NULL
+21,142,One with the Giants,Anti-Poaching,March,Black Market T3,120 RB,NULL
+22,109,The Jacana,Anti-Poaching,March,Black Market T3,120 RB,NULL
+23,112,Nacre Lining,Anti-Poaching,March,Black Market T3,120 RB,NULL
+24,83,True Titan,Anti-Poaching,March,Black Market T3,120 RB,NULL
+25,259,Sweet Sweet Marula,Championships,May,Crafted: Monkey Business,"20 Marula Fruit, 10 Lion Skull, 20 Underbrush, 20 Tail Tuft Hair",NULL
+26,82,Shiny Medal,Championships,May,Champion Shop T3,250 MB,NULL
+27,230,Ornate Body Frame,Championships,May,Champion Shop T3,250 MB,NULL
+28,220,Triumphant,Championships,May,Champion Shop T3,250 MB,NULL
+29,231,Trophy of the Champions,Championships,May,Crafted: Monkey Business,"5 Lion skull, 5 Lion Claw, 5 Lion tooth, 20 shiny Stones, 20 Tail Tuft Hair",NULL
+30,246,Victor's Secret,Championships,May,Crafted: Monkey Business,"2 Kudu Horn, 15 Lion Skull, 5 Lion Claw, 5 Lion tooth, 3 Porqupine Quills ",NULL
+31,176,Favor of Bast,Rise of the Serpent,June,Temple of Bast,400 KB,NULL
+32,282,Token of Bast,Rise of the Serpent,June,Temple of Bast,400 KB,NULL
+33,186,Royal Coat of Anubis,Rise of the Serpent,June,Temple of Anubis,400 KB,NULL
+34,200,Royal Coat of Bast,Rise of the Serpent,June,Temple of Bast,400 KB,NULL
+35,284,Relic of Seth,Rise of the Serpent,June,Temple of Seth,400 KB,NULL
+36,285,Grace of Seth,Rise of the Serpent,June,Story Line: Seth Side,Story Victory,NULL
+37,78,Relic of Anubis,Rise of the Serpent,June,Temple of Anubis,400 KB,NULL
+38,64,Token of Anubis,Rise of the Serpent,June,Temple of Anubis,400 KB,NULL
+39,108,Vestige of Anubis,Rise of the Serpent,June,Temple of Anubis,400 KB,NULL
+40,217,Relic of Bast,Rise of the Serpent,June,Temple of Bast,400 KB,NULL
+41,111,Token of Seth,Rise of the Serpent,June,Temple of Seth,400 KB,NULL
+42,309,Grace of Bast,Rise of the Serpent,June,Story Line: Bast Side,Story Victory,NULL
+43,336,Royal Coat of Seth,Rise of the Serpent,June,Temple of Seth,400 KB,NULL
+44,324,Favor of Seth,Rise of the Serpent,June,Temple of Seth,400 KB,NULL
+45,311,Vestige of Seth,Rise of the Serpent,June,Temple of Seth,400 KB,NULL
+46,350,Vestige of Bast,Rise of the Serpent,June,Temple of Bast,400 KB,NULL
+47,70,Favor of Anubis,Rise of the Serpent,June,Temple of Anubis,400 KB,NULL
+48,275,Grase of Anubis,Rise of the Serpent,June,Story Line: Anubis Side,Story Victory,NULL
+49,302,Astral Fire,Meteor Showers,July,Draco Demiurge Exchange,100 AC,NULL
+50,77,Touch of Demiurge,Meteor Showers,July,Draco Demiurge Exchange,100 AC,NULL
+51,12,Curse of Divine,Meteor Showers,July,Draco Demiurge Exchange,100 AC,NULL
+52,165,Heavenly Serenity,Meteor Showers,July,Draco Demiurge Exchange,100 AC,NULL
+53,141,Dust: Howlite,Meteor Showers,July,Crafted: Monkey Business,50 Howlite,NULL
+54,65,Interstellar Remnants,Meteor Showers,July,Story Line: Vredefort Crater,Complete,Only One Per Acount
+55,243,Dust: Labradorite,Meteor Showers,July,Crafted: Monkey Business,50 Labradorite,NULL
+56,153,Dust: Metieorite,Meteor Showers,July,Crafted: Monkey Business,50 Meteorite,NULL
+57,35,Dust: Moonstone,Meteor Showers,July,Crafted: Monkey Business,50 Moonstone,NULL
+58,178,Solaris,Droughts And Fires,August,Expore Drop,Mysterious Stranger Explore Encounter. Extreamly Low Chance,NULL
+59,10,Augur Prophecy,Locust Plague,September,Harbingers Shop,30 ET,NULL
+60,242,Gregarious Form,Locust Plague,September,Crafted: Monkey Business,50 Locust Wing,NULL
+61,107,Grullo Stud,Locust Plague,September,Crafted: Monkey Business,"100 Locust Wing, 50 Underbrush",NULL
+62,61,Harbinger Body,Locust Plague,September,Harbingers Shop,30 ET,NULL
+63,62,Trained Haruspex,Locust Plague,September,Harbingers Shop,30 ET,NULL
+64,327,Gregarious Phase,Locust Plague,September,Crafted: Monkey Business,40 Locust Wings,NULL
+65,156,Seer Divination,Locust Plague,September,Harbingers Shop,30 ET,NULL
+66,193,Shape of Swarm,Locust Plague,September,Crafted: Monkey Business,50 Locust Wings,NULL
+67,214,Angelic Core,To Hell With Rabies,October,Blood Beetle Shack T3,250 BB,NULL
+68,305,Blazing Corpse,To Hell With Rabies,October,Blood Beetle Shack T3,151 BB,NULL
+69,318,Blood Moon Body,To Hell With Rabies,October,Blood Beetle Shack T3,250 BB,NULL
+70,319,Bloodbourne Infection,To Hell With Rabies,October,Blood Beetle Shack T3,151 BB,NULL
+71,283,Brimstone Core,To Hell With Rabies,October,Crafted: Diabolic Altar,10 Shards of Evil,NULL
+72,268,Demonic Core,To Hell With Rabies,October,Blood Beetle Shack T3,250 BB,NULL
+73,257,Harvest Moon Body,To Hell With Rabies,October,Blood Beetle Shack T3,250 BB,NULL
+74,269,Haunted Body,To Hell With Rabies,October,Blood Beetle Shack T3,250 BB,NULL
+75,287,Infernal Blood,To Hell With Rabies,October,Blood Beetle Shack T3,151 BB,NULL
+76,18,Shard Body,To Hell With Rabies,October,Crafted: Diabolic Altar,10 Shards of Evil,NULL
+77,144,Skeletal Body,To Hell With Rabies,October,Crafted: Monkey Business,"30 Human Bones, 20 Underbrush",NULL
+78,274,Unholy Body,To Hell With Rabies,October,Blood Beetle Shack T3,151 BB,NULL
+79,325,Wicked Body,To Hell With Rabies,October,Blood Beetle Shack T3,250 BB,NULL
+80,125,Ammonite Body,Whispering Ancestors,November,Crafted: Monkey Business,20 Ammonite Fossil,NULL
+81,301,Ancestral Body,Whispering Ancestors,November,Shaman Shop T3,250 ScB,NULL
+82,320,Dust: Bloodstone,Whispering Ancestors,November,Crafted: Monkey Business,50 Bloodstone,NULL
+83,188,Cretatceous Body,Whispering Ancestors,November,Crafted: Monkey Business,"10 Ammonite Fossil, 10 Ancient Fossil, 10 Cracked Fossil, 20 Crumbled Fossil",NULL
+84,140,Etherel Body,Whispering Ancestors,November,Shaman Shop T3,250 ScB,NULL
+85,128,Fossil Body,Whispering Ancestors,November,Crafted: Monkey Business,"15 Craced Fossil, 5 crumbled fossil",NULL
+86,130,Sacred Body,Whispering Ancestors,November,Shaman Shop T3,250 ScB,NULL
+87,110,Dust: Moss Agate,Whispering Ancestors,November,Crafted: Monkey Business,50 Moss Agate,NULL
+88,143,Nautilus Body,Whispering Ancestors,November,Crafted: Monkey Business,"20 Ancient Fossil, 5 Cracked Fossil, 5 Crumbled Fossil",NULL
+89,67,Dust: Nuummite,Whispering Ancestors,November,Crafted: Monkey Business,50 Nuummite,NULL
+90,48,Dust: Rough Opal,Whispering Ancestors,November,Crafted: Monkey Business,50 Rough Opal,NULL
+91,154,Parhelion Body,Whispering Ancestors,November,Shaman Shop T3,250 ScB,NULL
+92,16,Penumbra Body,Whispering Ancestors,November,Shaman Shop T3,250 ScB,NULL
+93,97,Phantom Body,Whispering Ancestors,November,Shaman Shop T3,250 ScB,NULL
+94,206,Sepulture Body,Whispering Ancestors,November,Shaman Shop T3,250 ScB,NULL
+95,68,Spectre Body,Whispering Ancestors,November,Shaman Shop T3,250 ScB,NULL
+96,116,Supernal Body,Whispering Ancestors,November,Shaman Shop T3,250 ScB,NULL
+97,337, Windfall Body,Whispering Ancestors,November,Shaman Shop T3,250 ScB,NULL
+98,26,Arctic Circle,Season of Gifting,December,Mantis Shop T3,120 StB,NULL
+99,27,Aufeis Sheet,Season of Gifting,December,Mantis Shop T3,120 StB,NULL
+100,28,Blue Poinsettia Scent,Season of Gifting,December,Mantis Shop T3,120 StB,NULL
+101,256,Festive Gift,Season of Gifting,December,Event Award,Awarded for gifting a total of 888 Gifts in one year,NULL
+102,79,Frostbitten Skin,Season of Gifting,December,Mantis Shop T3,120 StB,NULL
+103,45,Glacial Facial,Season of Gifting,December,Mantis Shop T3,120 StB,NULL
+104,14,Spicy Ice,Season of Gifting,December,Mantis Shop T3,120 StB,NULL
+105,132,Chonky Ragdoll,Season of Gifting,December,Mantis Shop T3,120 StB,NULL
+106,115,Reindeer Base,Season of Gifting,December,Mantis Shop T3,120 StB,NULL
+107,36,Murk Body,Wet Seson,All Year,Flood Pit,4000 SB,NULL
+108,96,Glass Dust,Any Time,All Year,Crafted: Monkey Business,30 Natural Glass,NULL
+109,98,Sent of Water Hyacinth,Any Time,All Year,Crafted: Monkey Business,"100 Buchu, 100 Dream Root, 4 Fuchsia Flower, 100 Nut Grass, 40 shoebill Feather",NULL
+110,177,Citron Base,Anytime,All Year,Crafted: Monkey Business,"50 african Cucumber, 100 Rainbow Stones, 1 Beetle Lycus Trabeatus Yellow, 2 Beetle Smaragdesthus Africana yellow, 3 beetle Proagoderus rangifer Green",
+111,241,Feast of (april's) Fools,April 1st,April,Oasis,2GB,
+112,286,Sent of Hibiscus,Any Time,All Year,Crafted: Monkey Business,"10 Fchsia Flower, 60 Shiny Rock Red",
+113,303,Scent of Azalea,Any Time,All Year,Crafted: Monkey Business,"4 Fchsia Flower, 10 Four Leaf Clover, 50 Aloe Leaf, 50 Falmingo Feather, 25 Ostrich Feather",
+114,308,Scent of Fuchsia,Any Time,All Year,Crafted: Monkey Business,"4 Fuchsia Flower, 100 Uvuma-Omhlope, 100 Umganu, 100 Imphepho, 40 Falmingo Feather",
+115,333,Scent of Protea,Any Time,All Year,Crafted: Monkey Business,"20 Antelope Hoof, Fuchsia Flower, 100 Imphepho, 40 Kingfisher Feather, 100 Stripped Cacti",
+116,346,Decennial Base,Unknown,Unknown,Unknown,Unknown,

@@ -1,0 +1,351 @@
+bse_id,bse_name,bse_color,bse_shade,bse_gradent,bse_rareity,bse_type,bse_notes
+1,Black,Black,Dark,Counter,C,Custom,NULL
+2,Dikela,Black,Dark,Counter,C,Custom,NULL
+3,Gray,Black,Dark,Counter,C,Custom,NULL
+4,Pewter,Black,Dark,Counter,C,Custom,NULL
+5,Vandal,Black,Dark,Counter,C,Custom,NULL
+6,Gunmetal Gray,Black,Dark,Counter,U,Custom,NULL
+7,Korat,Black,Dark,Counter,U,Custom,NULL
+8,Cimmerian,Black,Dark,Counter,R,Breed Only,NULL
+9,Slate,Black,Dark,Counter,R,Breed Only,NULL
+10,Augur,Black,Dark,Counter,S,Applicator,NULL
+11,Celestial,Black,Dark,Counter,S,Breed Only,NULL
+12,Divine,Black,Dark,Counter,S,Applicator,NULL
+13,Elysian,Black,Dark,Counter,S,Combo,NULL
+14,Ice,Black,Dark,Counter,S,Applicator,NULL
+15,Jellyfish,Black,Dark,Counter,S,Breed Only,NULL
+16,Penumbra,Black,Dark,Counter,S,Applicator,NULL
+17,Ra,Black,Dark,Counter,S,Combo,NULL
+18,Shard,Black,Dark,Counter,S,Applicator,NULL
+19,Witch,Black,Dark,Counter,S,Combo,NULL
+20,Dun,Black,Medium,Counter,C,Custom,NULL
+21,Steele,Black,Medium,Counter,C,Custom,NULL
+22,Sterling,Black,Medium,Counter,C,Custom,NULL
+23,Maltese,Black,Medium,Counter,U,Custom,NULL
+24,Cocoa,Black,Medium,Counter,R,Breed Only,NULL
+25,Desolate,Black,Medium,Counter,R,Breed Only,NULL
+26,Arctic,Black,Medium,Counter,S,Applicator,NULL
+27,Aufeis,Black,Medium,Counter,S,Applicator,NULL
+28,Blue Poinsettia,Black,Medium,Counter,S,Applicator,NULL
+29,Cotton Candy,Black,Medium,Counter,S,Applicator,NULL
+30,Cloudburst,Black,Medium,Counter,S,Combo,NULL
+31,Ennead,Black,Medium,Counter,S,Combo,NULL
+32,Hematite,Black,Medium,Counter,S,Applicator,NULL
+33,Hoarfrost,Black,Medium,Counter,S,Combo,NULL
+34,Leonid,Black,Medium,Counter,S,Breed Only,NULL
+35,Moonstone,Black,Medium,Counter,S,Applicator,NULL
+36,Murk,Black,Medium,Counter,S,Applicator,NULL
+37,Rime,Black,Medium,Counter,S,Combo,NULL
+38,Sidereal,Black,Medium,Counter,S,Breed Only,NULL
+39,Dove Grey,Black,Light,Counter,C,NCL,NULL
+40,Dusty,Black,Light,Counter,C,NCL,NULL
+41,Rosy Brown,Black,Light,Counter,C,NCL,NULL
+42,Silver Grey,Black,Light,Counter,C,Custom,NULL
+43,Chartreux,Black,Light,Counter,R,Breed Only,NULL
+44,Snowpard,Black,Light,Counter,R,Breed Only,NULL
+45,Glacial,Black,Light,Counter,S,Applicator,NULL
+46,Kunzite,Black,Light,Counter,S,Applicator,NULL
+47,Mistletoe,Black,Light,Counter,S,Combo,NULL
+48,Opal,Black,Light,Counter,S,Applicator,NULL
+49,Pulsar,Black,Light,Counter,S,Combo,NULL
+50,Skyward,Black,Light,Counter,S,Breed Only,NULL
+51,Snowflake,Black,Light,Counter,S,Combo,NULL
+52,Soul,Black,Light,Counter,S,Combo,NULL
+53,Stratosphere,Black,Light,Counter,S,Breed Only,NULL
+54,Chestnut,Black,Dark,Solid,C,Custom,NULL
+55,Jet,Black,Dark,Solid,C,Custom,NULL
+56,Obsidian,Black,Dark,Solid,C,Custom,NULL
+57,Titanium,Black,Dark,Solid,C,Custom,NULL
+58,Onyx,Black,Dark,Solid,U,Custom,NULL
+59,Ebony,Black,Dark,Solid,R,Breed Only,NULL
+60,Noctis,Black,Dark,Solid,R,Breed Only,NULL
+61,Harbinger,Black,Dark,Solid,S,Applicator,NULL
+62,Haruspex,Black,Dark,Solid,S,Applicator,NULL
+63,Haze,Black,Dark,Solid,S,Breed Only,NULL
+64,Incense,Black,Dark,Solid,S,Applicator,NULL
+65,Interstellar,Black,Dark,Solid,S,Applicator,NULL
+66,Nadir,Black,Dark,Solid,S,Combo,NULL
+67,Nuummite,Black,Dark,Solid,S,Applicator,NULL
+68,Spectre,Black,Dark,Solid,S,Applicator,NULL
+69,Styx,Black,Dark,Solid,S,Combo,NULL
+70,Velvet,Black,Dark,Solid,S,Applicator,NULL
+71,Dark Brown,Black,Medium,Solid,C,Custom,NULL
+72,Liver,Black,Medium,Solid,C,Custom,NULL
+73,Silver,Black,Medium,Solid,C,Custom,NULL
+74,Flint,Black,Medium,Solid,R,Breed Only,NULL
+75,Platinum,Black,Medium,Solid,R,Breed Only,NULL
+76,Basalt,Black,Medium,Solid,S,Combo,NULL
+77,Demiurge,Black,Medium,Solid,S,Applicator,NULL
+78,Duat,Black,Medium,Solid,S,Applicator,NULL
+79,Frostbitten,Black,Medium,Solid,S,Applicator,NULL
+80,Lilac,Black,Medium,Solid,S,Breed Only,NULL
+81,Majivu,Black,Medium,Solid,S,Combo,NULL
+82,Medal,Black,Medium,Solid,S,Applicator,NULL
+83,Rhino,Black,Medium,Solid,S,Applicator,NULL
+84,Albino,Black,Light,Solid,C,Custom,NULL
+85,Birch,Black,Light,Solid,C,Custom,NULL
+86,Eggshell,Black,Light,Solid,C,Custom,NULL
+87,Isabel,Black,Light,Solid,C,Custom,NULL
+88,White,Black,Light,Solid,C,Custom,NULL
+89,Aspen,Black,Light,Solid,U,Custom,NULL
+90,Clear White,Black,Light,Solid,U,Custom,NULL
+91,Willow,Black,Light,Solid,U,Custom,NULL
+92,Ashen,Black,Light,Solid,R,Breed Only,NULL
+93,Frost,Black,Light,Solid,R,Breed Only,NULL
+94,Cairngorm,Black,Light,Solid,S,Combo,NULL
+95,Celsian,Black,Light,Solid,S,Combo,NULL
+96,Glass,Black,Light,Solid,S,Applicator,NULL
+97,Phantom,Black,Light,Solid,S,Applicator,NULL
+98,Water Hyacinth,Black,Light,Solid,S,Applicator,NULL
+99,Blonde,Cream,Dark,Counter,C,Custom,NULL
+100,Dusty Rose,Cream,Dark,Counter,C,Custom,NULL
+101,Pecan,Cream,Dark,Counter,C,Custom,NULL
+102,Savannah,Cream,Dark,Counter,C,NCL,NULL
+103,Russet,Cream,Dark,Counter,U,Custom,NULL
+104,Flaxen,Cream,Dark,Counter,R,Breed Only,NULL
+105,Senegal,Cream,Dark,Counter,R,Breed Only,NULL
+106,Arabica,Cream,Dark,Counter,S,Combo,NULL
+107,Grullo,Cream,Dark,Counter,S,Applicator,NULL
+108,Inpu,Cream,Dark,Counter,S,Applicator,NULL
+109,Jacana,Cream,Dark,Counter,S,Applicator,NULL
+110,Moss Agate,Cream,Dark,Counter,S,Applicator,NULL
+111,Mummy,Cream,Dark,Counter,S,Applicator,NULL
+112,Nacre,Cream,Dark,Counter,S,Applicator,NULL
+113,Olive,Cream,Dark,Counter,S,Combo,NULL
+114,Outlaw,Cream,Dark,Counter,S,Breed Only,NULL
+115,Reindeer,Cream,Dark,Counter,S,Applicator,NULL
+116,Supernal,Cream,Dark,Counter,S,Applicator,NULL
+117,Vagabond,Cream,Dark,Counter,S,Breed Only,NULL
+118,Dark Vanilla,Cream,Medium,Counter,C,Custom,NULL
+119,Deep Fawn,Cream,Medium,Counter,C,NCL,NULL
+120,Hazelnut,Cream,Medium,Counter,C,Custom,NULL
+121,Mongoose,Cream,Medium,Counter,C,NCL,NULL
+122,Cameo,Cream,Medium,Counter,R,Breed Only,NULL
+123,Finch,Cream,Medium,Counter,R,Breed Only,NULL
+124,Aardwolf,Cream,Medium,Counter,S,Applicator,NULL
+125,Ammonite,Cream,Medium,Counter,S,Applicator,NULL
+126,Asiatic,Cream,Medium,Counter,S,Combo,NULL
+127,Esker,Cream,Medium,Counter,S,Combo,NULL
+128,Fossil,Cream,Medium,Counter,S,Applicator,NULL
+129,Guardian,Cream,Medium,Counter,S,Applicator,NULL
+130,Hallowed,Cream,Medium,Counter,S,Applicator,NULL
+131,Pecora,Cream,Medium,Counter,S,Breed Only,NULL
+132,Ragdoll,Cream,Medium,Counter,S,Applicator,NULL
+133,Smog,Cream,Medium,Counter,S,Combo,NULL
+134,Almond,Cream,Light,Counter,C,Custom,NULL
+135,Antler,Cream,Light,Counter,C,Custom,NULL
+136,Vanilla,Cream,Light,Counter,C,Custom,NULL
+137,Buff,Cream,Light,Counter,R,Breed Only,NULL
+138,Tusk,Cream,Light,Counter,R,Breed Only,NULL
+139,Cherry Blossom,Cream,Light,Counter,S,Applicator,NULL
+140,Ethereal,Cream,Light,Counter,S,Applicator,NULL
+141,Howlite,Cream,Light,Counter,S,Applicator,NULL
+142,Ivory,Cream,Light,Counter,S,Applicator,NULL
+143,Nautilus,Cream,Light,Counter,S,Applicator,NULL
+144,Skeletal,Cream,Light,Counter,S,Applicator,NULL
+145,Caramel,Cream,Dark,Solid,C,NCL,NULL
+146,Khaki,Cream,Dark,Solid,C,NCL,NULL
+147,Persimmon,Cream,Dark,Solid,C,Custom,NULL
+148,Tan,Cream,Dark,Solid,C,Custom,NULL
+149,Butternut,Cream,Dark,Solid,U,Custom,NULL
+150,Amber,Cream,Dark,Solid,R,Breed Only,NULL
+151,Soot,Cream,Dark,Solid,R,Breed Only,NULL
+152,Hellebore,Cream,Dark,Solid,S,Combo,NULL
+153,Meteorite,Cream,Dark,Solid,S,Applicator,NULL
+154,Parhelion,Cream,Dark,Solid,S,Applicator,NULL
+155,Qahir,Cream,Dark,Solid,S,Combo,NULL
+156,Seer,Cream,Dark,Solid,S,Applicator,NULL
+157,Camel,Cream,Medium,Solid,C,NCL,NULL
+158,Cream,Cream,Medium,Solid,C,NCL,NULL
+159,Cream Darker,Cream,Medium,Solid,C,NCL,NULL
+160,Dark Fawn,Cream,Medium,Solid,C,Custom,NULL
+161,Fawn,Cream,Medium,Solid,C,Custom,NULL
+162,Argent,Cream,Medium,Solid,R,Breed Only,NULL
+163,Buttercream,Cream,Medium,Solid,R,Breed Only,NULL
+164,Atlas,Cream,Medium,Solid,S,Applicator,NULL
+165,Heavenly,Cream,Medium,Solid,S,Applicator,NULL
+166,Pearl,Cream,Medium,Solid,S,Breed Only,NULL
+167,Ruffian,Cream,Medium,Solid,S,Breed Only,NULL
+168,Sphinx,Cream,Medium,Solid,S,Combo,NULL
+169,Apricot,Cream,Light,Solid,C,Custom,NULL
+170,Beige,Cream,Light,Solid,C,Custom,NULL
+171,Cream Lighter,Cream,Light,Solid,C,NCL,NULL
+172,Light Cream,Cream,Light,Solid,C,NCL,NULL
+173,Buttermilk,Cream,Light,Solid,U,Custom,NULL
+174,Mocha,Cream,Light,Solid,R,Breed Only,NULL
+175,Teardrop,Cream,Light,Solid,R,Breed Only,NULL
+176,Alabaster,Cream,Light,Solid,S,Applicator,NULL
+177,Citron,Cream,Light,Solid,S,Applicator,NULL
+178,Solaris,Cream,Light,Solid,S,Applicator,NULL
+179,Deira,Golden,Dark,Counter,C,Custom,NULL
+180,Doubloon,Golden,Dark,Counter,C,Custom,NULL
+181,Jacinthe,Golden,Dark,Counter,C,Custom,NULL
+182,Ochre,Golden,Dark,Counter,C,Custom,NULL
+183,Dinar,Golden,Dark,Counter,R,Breed Only,NULL
+184,Fulvous,Golden,Dark,Counter,R,Breed Only,NULL
+185,Abyssinian,Golden,Dark,Counter,S,Breed Only,NULL
+186,Anubis,Golden,Dark,Counter,S,Applicator,NULL
+187,Asali,Golden,Dark,Counter,S,Exclusive,NULL
+188,Cretaceous,Golden,Dark,Counter,S,Applicator,NULL
+189,Ember,Golden,Dark,Counter,S,Combo,NULL
+190,Hyena,Golden,Dark,Counter,S,Applicator,NULL
+191,Kimanjano,Golden,Dark,Counter,S,Breed Only,NULL
+192,Ripe,Golden,Dark,Counter,S,Breed Only,NULL
+193,Swarm,Golden,Dark,Counter,S,Applicator,NULL
+194,Ducat,Golden,Medium,Counter,C,Custom,NULL
+195,Oatmeal,Golden,Medium,Counter,C,NCL,NULL
+196,Saffron,Golden,Medium,Counter,C,Custom,NULL
+197,Sunflower,Golden,Medium,Counter,C,NCL,NULL
+198,Goridhe,Golden,Medium,Counter,R,Breed Only,NULL
+199,Nacarat,Golden,Medium,Counter,R,Breed Only,NULL
+200,Bast,Golden,Medium,Counter,S,Applicator,NULL
+201,Bushveld,Golden,Medium,Counter,S,Breed Only,NULL
+202,Dhahabi,Golden,Medium,Counter,S,Exclusive,NULL
+203,Hirola,Golden,Medium,Counter,S,Applicator,NULL
+204,Mandarin,Golden,Medium,Counter,S,Breed Only,NULL
+205,Maziwa,Golden,Medium,Counter,S,Exclusive,NULL
+206,Sepulture,Golden,Medium,Counter,S,Applicator,NULL
+207,Sunspot,Golden,Medium,Counter,S,Breed Only,NULL
+208,Bisquit,Golden,Light,Counter,C,Custom,NULL
+209,Bone,Golden,Light,Counter,C,Custom,NULL
+210,Sunglow,Golden,Light,Counter,C,Custom,NULL
+211,Wheaten,Golden,Light,Counter,C,NCL,NULL
+212,Champagne,Golden,Light,Counter,R,Breed Only,NULL
+213,Powder,Golden,Light,Counter,R,Breed Only,NULL
+214,Angelic,Golden,Light,Counter,S,Applicator,NULL
+215,Citrine,Golden,Light,Counter,S,Combo,NULL
+216,Haliotis,Golden,Light,Counter,S,Applicator,NULL
+217,Maat,Golden,Light,Counter,S,Applicator,NULL
+218,Nudar,Golden,Light,Counter,S,Breed Only,NULL
+219,Peach,Golden,Light,Counter,S,Applicator,NULL
+220,Triumph,Golden,Light,Counter,S,Applicator,NULL
+221,Dark Golden,Golden,Dark,Solid,C,NCL,NULL
+222,Zarafshan,Golden,Dark,Solid,C,NCL,NULL
+223,Zarbanu,Golden,Dark,Solid,C,NCL,NULL
+224,Xanthic,Golden,Dark,Solid,U,Custom,NULL
+225,Honey,Golden,Dark,Solid,R,Breed Only,NULL
+226,Udara,Golden,Dark,Solid,R,Breed Only,NULL
+227,Chatoyant,Golden,Dark,Solid,S,Applicator,NULL
+228,Damu,Golden,Dark,Solid,S,Breed Only,NULL
+229,Mudstone,Golden,Dark,Solid,S,Combo,NULL
+230,Ornament,Golden,Dark,Solid,S,Applicator,NULL
+231,Trophy,Golden,Dark,Solid,S,Applicator,NULL
+232,Luteo,Golden,Medium,Solid,C,Custom,NULL
+233,Medium Golden,Golden,Medium,Solid,C,NCL,NULL
+234,Sundust,Golden,Medium,Solid,C,NCL,NULL
+235,Zarasa,Golden,Medium,Solid,C,NCL,NULL
+236,Zarin,Golden,Medium,Solid,C,NCL,NULL
+237,Topaz,Golden,Medium,Solid,U,Custom,NULL
+238,Dandelion,Golden,Medium,Solid,R,Breed Only,NULL
+239,Goldenrod,Golden,Medium,Solid,R,Breed Only,NULL
+240,Gilded,Golden,Medium,Solid,S,Combo,NULL
+241,Green,Golden,Medium,Solid,S,Applicator,NULL
+242,Gregarious,Golden,Medium,Solid,S,Applicator,NULL
+243,Labradorite,Golden,Medium,Solid,S,Applicator,NULL
+244,Mobola,Golden,Medium,Solid,S,Exclusive,NULL
+245,Sahara,Golden,Medium,Solid,S,Breed Only,NULL
+246,Victor,Golden,Medium,Solid,S,Applicator,NULL
+247,Bisque,Golden,Light,Solid,C,Custom,NULL
+248,Lemon,Golden,Light,Solid,C,NCL,NULL
+249,Light Golden,Golden,Light,Solid,C,NCL,NULL
+250,Linen,Golden,Light,Solid,C,Custom,NULL
+251,Zer,Golden,Light,Solid,C,NCL,NULL
+252,Zivar,Golden,Light,Solid,C,NCL,NULL
+253,Sunshine,Golden,Light,Solid,U,Custom,NULL
+254,Sulphur,Golden,Light,Solid,R,Breed Only,NULL
+255,Sunkissed,Golden,Light,Solid,R,Breed Only,NULL
+256,Festive,Golden,Light,Solid,S,Applicator,NULL
+257,Harvest Moon,Golden,Light,Solid,S,Applicator,NULL
+258,Hexaplex,Golden,Light,Solid,S,Combo,NULL
+259,Marula,Golden,Light,Solid,S,Applicator,NULL
+260,Ukame,Golden,Light,Solid,S,Breed Only,NULL
+261,Auburn ,Red,Dark,Counter,C,Custom,NULL
+262,Brass,Red,Dark,Counter,C,Custom,NULL
+263,Bronze,Red,Dark,Counter,C,Custom,NULL
+264,Mulberry,Red,Dark,Counter,C,NCL,NULL
+265,Ruddy,Red,Dark,Counter,C,Custom,NULL
+266,Cassis,Red,Dark,Counter,R,Breed Only,NULL
+267,Prune,Red,Dark,Counter,R,Breed Only,NULL
+268,Demonic,Red,Dark,Counter,S,Applicator,NULL
+269,Haunted,Red,Dark,Counter,S,Applicator,NULL
+270,Madagascar,Red,Dark,Counter,S,Combo,NULL
+271,Rhodonite,Red,Dark,Counter,S,Applicator,NULL
+272,Rough Ruby,Red,Dark,Counter,S,Applicator,NULL
+273,Temporal,Red,Dark,Counter,S,Combo,NULL
+274,Unholy,Red,Dark,Counter,S,Applicator,NULL
+275,Wepwawet,Red,Dark,Counter,S,Applicator,NULL
+276,Ginger,Red,Medium,Counter,C,Custom,NULL
+277,Mauve,Red,Medium,Counter,C,Custom,NULL
+278,Rust,Red,Medium,Counter,C,Custom,NULL
+279,Rhubarb,Red,Medium,Counter,U,Custom,NULL
+280,Anjerr,Red,Medium,Counter,R,Breed Only,NULL
+281,Scallop,Red,Medium,Counter,R,Breed Only,NULL
+282,Ankh,Red,Medium,Counter,S,Applicator,NULL
+283,Brimstone,Red,Medium,Counter,S,Applicator,NULL
+284,Chaos,Red,Medium,Counter,S,Applicator,NULL
+285,Deshret,Red,Medium,Counter,S,Applicator,NULL
+286,Hibiscus,Red,Medium,Counter,S,Applicator,NULL
+287,Inferno,Red,Medium,Counter,S,Applicator,NULL
+288,Ogdoad,Red,Medium,Counter,S,Combo,NULL
+289,Scoundrel,Red,Medium,Counter,S,Breed Only,NULL
+290,Squall,Red,Medium,Counter,S,Combo,NULL
+291,Sunset,Red,Medium,Counter,S,Combo,NULL
+292,Wine,Red,Medium,Counter,S,Combo,NULL
+293,Copper,Red,Light,Counter,C,Custom,NULL
+294,Palmino,Red,Light,Counter,C,Custom,NULL
+295,Sorrel,Red,Light,Counter,C,Custom,NULL
+296,Tawny,Red,Light,Counter,C,Custom,NULL
+297,Rufous,Red,Light,Counter,U,Custom,NULL
+298,Fiery,Red,Light,Counter,R,Breed Only,NULL
+299,Maroon,Red,Light,Counter,R,Breed Only,NULL
+300,Taupe,Red,Light,Counter,R,Breed Only,NULL
+301,Ancestral,Red,Light,Counter,S,Applicator,NULL
+302,Astral,Red,Light,Counter,S,Applicator,NULL
+303,Azalea,Red,Light,Counter,S,Applicator,NULL
+304,Bandit,Red,Light,Counter,S,Breed Only,NULL
+305,Blazing,Red,Light,Counter,S,Applicator,NULL
+306,Dawn,Red,Light,Counter,S,Breed Only,NULL
+307,Flamingo,Red,Light,Counter,S,Applicator,NULL
+308,Fuchsia,Red,Light,Counter,S,Applicator,NULL
+309,Nefer,Red,Light,Counter,S,Applicator,NULL
+310,Sunrise,Red,Light,Counter,S,Breed Only,NULL
+311,Sutekh,Red,Light,Counter,S,Applicator,NULL
+312,Chocolate ,Red,Dark,Solid,C,NCL,NULL
+313,Henna,Red,Dark,Solid,C,Custom,NULL
+314,Redwood,Red,Dark,Solid,C,Custom,NULL
+315,Acacia,Red,Dark,Solid,R,Breed Only,NULL
+316,Shedua,Red,Dark,Solid,R,Breed Only,NULL
+317,Black Rose,Red,Dark,Solid,S,Combo,NULL
+318,Blood Moon,Red,Dark,Solid,S,Applicator,NULL
+319,Bloodbourne,Red,Dark,Solid,S,Applicator,NULL
+320,Bloodstone,Red,Dark,Solid,S,Applicator,NULL
+321,Manakbir,Red,Dark,Solid,S,Applicator,NULL
+322,Merlot,Red,Dark,Solid,S,Applicator,NULL
+323,Prismatic,Red,Dark,Solid,S,Breed Only,NULL
+324,Sha,Red,Dark,Solid,S,Applicator,NULL
+325,Wicked,Red,Dark,Solid,S,Applicator,NULL
+326,Brown,Red,Medium,Solid,C,Custom,NULL
+327,Locust,Red,Medium,Solid,C,Applicator,NULL
+328,Mahogany,Red,Medium,Solid,C,Custom,NULL
+329,Sienna,Red,Medium,Solid,C,NCL,NULL
+330,Red,Red,Medium,Solid,R,Breed Only,NULL
+331,Umber,Red,Medium,Solid,R,Breed Only,NULL
+332,Blush Rose,Red,Medium,Solid,S,Applicator,NULL
+333,Protea,Red,Medium,Solid,S,Applicator,NULL
+334,Rose Gold,Red,Medium,Solid,S,Combo,NULL
+335,Sepia,Red,Medium,Solid,S,Breed Only,NULL
+336,Seth,Red,Medium,Solid,S,Applicator,NULL
+337,WIndfall,Red,Medium,Solid,S,Applicator,NULL
+338,Cedar,Red,Light,Solid,C,NCL,NULL
+339,Cremello,Red,Light,Solid,C,Custom,NULL
+340,Fallow,Red,Light,Solid,C,Custom,NULL
+341,Sandy,Red,Light,Solid,C,Custom,NULL
+342,WildRose,Red,Light,Solid,C,Custom,NULL
+343,Cinnabar,Red,Light,Solid,R,Breed Only,NULL
+344,Sapela,Red,Light,Solid,R,Breed Only,NULL
+345,Ardor,Red,Light,Solid,S,Applicator,NULL
+346,Decennial,Red,Light,Solid,S,Applicator,NULL
+347,Orchid,Red,Light,Solid,S,Breed Only,NULL
+348,Rose Pink,Red,Light,Solid,S,Applicator,NULL
+349,Serruria,Red,Light,Solid,S,Combo,NULL
+350,Ubaste,Red,Light,Solid,S,Applicator,NULL
